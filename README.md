@@ -1,2 +1,2 @@
-# listic.ru-scraper
-listic.ru scraper
+# listick.ru-scraper
+listick.ru scraper
